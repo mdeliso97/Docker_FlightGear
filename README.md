@@ -7,7 +7,7 @@ Under the link , you can find an Ubuntu 20.04.6 LTS Focal docker image with Flig
 1. install docker on your local machine
   
 3. pull the docker image with the following input:
-´´´docker pull mdeliso97/docker_FG´´´
+´´´docker pull mdeliso97/docker_fg´´´
 
 4. check whether the image was pulled successfully:
 ´´´docker images´´´
