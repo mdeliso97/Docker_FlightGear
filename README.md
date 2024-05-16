@@ -1,4 +1,4 @@
-# Docker_Flightgear
+# Docker FlightGear
 This repository provides instructions on how to run on your local machine FlightGear without having to install everything FlightGear-related into your machine and even play with it through a container using your local host GPU. This project was developed by myself for my own use and was also requested by many members of the community for many years.
 
 ## How to set FG
