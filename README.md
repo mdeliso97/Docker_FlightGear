@@ -1,4 +1,4 @@
-# Docker_Flightear
+# Docker_Flightgear
 This repository provides instructions on how to run on your local machine flightgear without having to install everything flightgear-related into your machine and even playing with it through a container.
 
 ## How to configure
