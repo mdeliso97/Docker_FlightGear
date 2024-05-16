@@ -15,4 +15,4 @@ If you find the docker image listed, it means that you pulled the image correctl
 
 5. ´´´xhost +´´´
 
-6. ´´´docker run -it -e DISPLAY -v "/tmp/.X11-unix:/tmp/.X11-unix:rw" docker_fg:16-05-24 fgfs --launcher´´´
+6. ´´´docker run -it -e DISPLAY -v "/tmp/.X11-unix:/tmp/.X11-unix:rw" docker_fg:16-05-24´´´
