@@ -22,6 +22,6 @@ This command disables access control, allowing any client to connect to the host
 If all steps above were performed correctly, this command should launch a docker container with FlightGear directly executing on your machine.
 
 ## Credits
-Please leave suggestions on how to improve the docker image and provide credits on your own copy if you extend it for your own usage. You can also find the dockerfile where all executed commands on the image build are defined.
+Please leave suggestions on how to improve the docker image and provide credits on your own copy if you extend it for your own or public usage. You can also find the dockerfile where all executed commands on the image build are defined.
 
 Enjoy!
